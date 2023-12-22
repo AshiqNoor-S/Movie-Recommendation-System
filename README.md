@@ -1,56 +1,38 @@
 # Movies Recommendation System
 
-This is a simple Movies Recommendation System implemented using Streamlit.
+This Streamlit app recommends movies based on user-selected movies.
 
-## Table of Contents
+## Demo
 
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
+[Insert GIF or video of the app in action]
 
 ## Getting Started
 
 ### Prerequisites
 
-Make sure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
+- Python 3.6 or later
+- Streamlit
+- Pandas
+- Pickle
+- Requests
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/movies-recommendation-system.git
-2. Navigate to the project directory:
+   git clone [https://github.com/your-username/movies-recommendation-system.git](https://github.com/your-username/movies-recommendation-system.git): [https://github.com/your-username/movies-recommendation-system.git](https://github.com/your-username/movies-recommendation-system.git)
 
-```bash
-cd movies-recommendation-system
-3. Install the required dependencies:
-```bash
-pip install -r requirements.txt
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
 
-## Usage
-Run the Streamlit app:
-```bash
-streamlit run app.py
+### Usage
 
-Open your web browser and go to http://localhost:8501.
+1. Run the Streamlit app:
+    ```bash
+    streamlit run app.py
 
-Follow the instructions on the sidebar to select a movie and get recommendations.
+2. Open your web browser and go to http://localhost:8501.
 
-Customization
-Feel free to customize the app by modifying the app.py file. You can add new features, improve the UI, or integrate additional functionalities.
-
-Contributing
-Contributions are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License.
-
-css
-Copy code
-
-Save this content in a file named `README.md`.
+3. Follow the instructions on the sidebar to select a movie and get recommendations.
