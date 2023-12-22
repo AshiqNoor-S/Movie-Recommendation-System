@@ -24,22 +24,19 @@ Make sure you have Python installed. You can download it from [python.org](https
 
    ```bash
    git clone https://github.com/your-username/movies-recommendation-system.git
-Navigate to the project directory:
+2. Navigate to the project directory:
 
-bash
-Copy code
+```bash
 cd movies-recommendation-system
-Install the required dependencies:
-
-bash
-Copy code
+3. Install the required dependencies:
+```bash
 pip install -r requirements.txt
-Usage
-Run the Streamlit app:
 
-bash
-Copy code
+## Usage
+Run the Streamlit app:
+```bash
 streamlit run app.py
+
 Open your web browser and go to http://localhost:8501.
 
 Follow the instructions on the sidebar to select a movie and get recommendations.
