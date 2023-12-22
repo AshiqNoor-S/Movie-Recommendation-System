@@ -4,7 +4,7 @@ This Streamlit app recommends movies based on user-selected movies.
 
 ## Demo
 
-[Insert GIF or video of the app in action]
+![Uploading image.png…]()
 
 ## Getting Started
 
